@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "anenet",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

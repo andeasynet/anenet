@@ -1,0 +1,8 @@
+{
+  "name": "anenet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "742eaefb"
+}
